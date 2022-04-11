@@ -51,11 +51,13 @@ class WhereAmI {
 (/Users/<user-name>/.ssh/id_rsa): (/Users/<user-name>/.ssh/id_rsa):
 ```
 - Press Enter for an empty passphrase
-- To ssh or scp without having to enter a password, ssh and run ```mkdir .ssh```, then ```<logout>```. Afterwards input:
-```
-scp /Users/donuts/.ssh/id_rsa.pub. cs15lwi22aoq@ieng6.ucsd.edu:~/.ssh/authorized_keys
-```
 ![Image5](step5.png)
+
+To ssh or scp without having to enter a password, ssh and run ```mkdir .ssh```, then ```logout```. Afterwards input:
+```
+scp /Users/donuts/.ssh/id_rsa cs15lsp22alg@ieng6.ucsd.edu:~/.ssh/authorized_keys
+```
+![Image5-2](step5-2.png)
 ## **Step 6:** 
 
 
