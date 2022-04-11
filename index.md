@@ -58,7 +58,12 @@ To ssh or scp without having to enter a password, ssh and run ```mkdir .ssh```, 
 scp /Users/donuts/.ssh/id_rsa cs15lsp22alg@ieng6.ucsd.edu:~/.ssh/authorized_keys
 ```
 ![Image5-2](step5-2.png)
-## **Step 6:** 
+## **Step 6:** Optimize remote running
+- Start off by downloading the remote ftp-sync extension
+- Type command-p for search engine and type/click ftp-sync remote-local
+- Change the following information in order to sync:
+![Image6](step6.png)
+
 
 
 
