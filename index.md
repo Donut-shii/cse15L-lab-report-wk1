@@ -6,7 +6,7 @@ and choose the version meant for your computer. Home page should look like this:
 
 ## **Step 2:** Remotely Connecting
 - Look up course specific account [here](https://code.visualstudio.com/)
-- should look something like cs15lwi22aoq where the ‘aoq’ refers to the course-specific account
+- should look something like ```cs15lwi22aoq``` where the  ```aoq``` refers to the course-specific account
 - open a termnial (should be on top of the computer screen) in Visual Code
 - use the a command with the following format:
 ```$ ssh cs15lwi22aoq@ieng6.ucsd.edu``` in the terminal 
@@ -16,7 +16,7 @@ and choose the version meant for your computer. Home page should look like this:
 ![Image2](step2.png)
 
 ## **Step 3:** Trying Some Commands
-Try running some commands such as cd, ls, pwd, mkdir, and cp. The specific command used in the screenshot is ```ls -lat```, which outputs a list of computer files in Unix or Unix-like systems (in this case, in MacOSX)
+Try running some commands such as ```cd, ls, pwd, mkdir, and cp```. The specific command used in the screenshot is ```ls -lat```, which outputs a list of computer files in Unix or Unix-like systems (in this case, in MacOSX)
 ![Image3](step3.png)
 
 ## **Step 4:** Moving Files with scp
@@ -40,11 +40,11 @@ class WhereAmI {
 ![Image4](step4.png)
 
 ## **Step 5:** Setting an SSH Key
-- type ssh-keygen in terminal
+- type ```ssh-keygen``` in terminal
 - This command generates an enter file message
 - type format (subsituting user-name)
 ```
-(/Users/<user-name>/.ssh/id_rsa): (/Users/<user-name>/.ssh/id_rsa):
+/Users/<user-name>/.ssh/id_rsa
 ```
 - Press Enter for an empty passphrase
 ![Image5](step5.png)
