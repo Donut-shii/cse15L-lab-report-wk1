@@ -1,15 +1,11 @@
 # Week 2: Lab report 1
 ## **Step 1:** Installing VScode
-__Download Visual Code Studio__ using the following link: 
-[Link][1]
-[1]: https://code.visualstudio.com/ 
+__Download Visual Code Studio__ [here](https://code.visualstudio.com/)
 and choose the version meant for your computer. Home page should look like this: 
 ![Image1](step1.png)
 
 ## **Step 2:** Remotely Connecting
-- Look up course specific account through
-[Link][2]
-[2]: https://sdacs.ucsd.edu/~icc/index.php 
+- Look up course specific account [here](https://code.visualstudio.com/)
 - should look something like cs15lwi22aoq where the ‘aoq’ refers to the course-specific account
 - open a termnial (should be on top of the computer screen) in Visual Code
 - use the a command with the following format:
