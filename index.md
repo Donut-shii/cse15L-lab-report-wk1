@@ -40,10 +40,10 @@ class WhereAmI {
 - run following command: java WhereAmI.java 
 - __move files using the scp command__ by running ```scp WhereAmI.java cs15lwi22alg@ieng6.ucsd.edu:~/```
 - type password (should be the same as when you logged in to ssh)
- 
- ![Image4](step4.png)
 
- ## **Step 5:** Setting an SSH Key
+![Image4](step4.png)
+
+## **Step 5:** Setting an SSH Key
 - type ssh-keygen in terminal
 - This command generates an enter file message
 - type format (subsituting user-name)
